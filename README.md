@@ -1,7 +1,7 @@
 Hi 👋 My name is Ross Brown
 ===========================
 
-Software Engineer
+Software Engineer 💻 / Musician 🎺
 -----------------
 
 I've been learning to code for the past ~9 months after deciding to make a career pivot from music. Currently learning HTML, CSS, and JS. I want to be a full stack developer and build some really cool things.
