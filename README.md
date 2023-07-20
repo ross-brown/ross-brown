@@ -4,10 +4,10 @@ Hi 👋 My name is Ross Brown
 Software Engineer 💻 / Musician 🎺
 -----------------
 
-I've been learning to code for the past ~9 months after deciding to make a career pivot from music. Currently learning HTML, CSS, and JS. I want to be a full stack developer and build some really cool things.
+I've been learning to code for the past year after deciding to make a career pivot from music. Currently learning HTML, CSS, and JS. I want to be a full stack developer and build some really cool things.
 
 * 🌍  I'm based in Dallas, TX
-* ✉️  You can contact me at [rbrown\_98@yahoo.com](mailto:rbrown_98@yahoo.com)
+* ✉️  You can contact me at [rbrown\_98@yahoo.com](mailto:rbrown_98@yahoo.com) or [LinkedIn](https://www.linkedin.com/in/ross-brown-/)
 * ⚡  I have a master's degree in Music Performance 👀
 
 ### Skills
@@ -35,6 +35,3 @@ I've been learning to code for the past ~9 months after deciding to make a caree
  -->
 <a href="http://www.github.com/ross-brown"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ross-brown&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ross-brown"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ross-brown&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ross-brown" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ross-brown&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
