@@ -7,7 +7,6 @@ Software Engineer 💻 / Musician 🎺
 * 🤔 Currently learning React, TypeScript, and GraphQL.
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [rbrown\_98@yahoo.com](mailto:rbrown_98@yahoo.com) or [LinkedIn](https://www.linkedin.com/in/ross-brown-/)
-* ⚡  I have a master's degree in Music Performance 👀
 
 ### Skills
 
