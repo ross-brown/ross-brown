@@ -4,7 +4,7 @@ Hi 👋 My name is Ross Brown
 Software Engineer 💻 / Musician 🎺
 -----------------
 * 🎼 I'm a musician turned software engineer
-* 🤔 Currently learning React, TypeScript, and GraphQL.
+* 🤔 Currently learning React, TypeScript, and Next.js.
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [rbrown\_98@yahoo.com](mailto:rbrown_98@yahoo.com) or [LinkedIn](https://www.linkedin.com/in/ross-brown-/)
 
